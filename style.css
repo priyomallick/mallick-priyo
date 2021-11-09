@@ -1,0 +1,15 @@
+.name{
+    color: orange;
+}
+h1{
+    font-size: 30px;
+}
+.all{
+width: 40%;
+float: left;
+padding-left: 2%;
+margin-left: 5%;
+}
+.all img{
+    width: 100%;
+}
